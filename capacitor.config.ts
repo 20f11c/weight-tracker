@@ -1,7 +1,7 @@
 ﻿import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.weighttracker.app',
+  appId: 'com.qingti.app',
   appName: '轻体记录',
   webDir: 'dist',
   plugins: {
