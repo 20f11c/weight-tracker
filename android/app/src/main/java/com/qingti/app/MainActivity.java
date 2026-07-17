@@ -1,4 +1,4 @@
-package com.weighttracker.app;
+package com.qingti.app;
 
 import com.getcapacitor.BridgeActivity;
 
