@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#73d13d"/>
+      <stop offset="100%" stop-color="#389e0d"/>
+    </linearGradient>
+  </defs>
+  <!-- Green circle background -->
+  <circle cx="256" cy="256" r="256" fill="url(#bg)"/>
+  <!-- Leaf shape - clean and recognizable at small sizes -->
+  <path d="M256 100 C180 100 120 170 120 260 C120 340 175 400 256 400 C280 400 300 394 318 384 C260 370 215 315 210 250 C270 270 320 320 340 380 C365 350 380 310 380 260 C380 170 332 100 256 100Z" fill="white" fill-opacity="0.95"/>
+  <!-- Leaf vein - central -->
+  <path d="M256 150 C256 150 256 300 290 380" stroke="#52c41a" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.4"/>
+  <!-- Leaf veins - side -->
+  <path d="M256 210 C235 230 215 240 200 242" stroke="#52c41a" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.3"/>
+  <path d="M260 260 C240 278 222 285 210 285" stroke="#52c41a" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.3"/>
+  <path d="M268 310 C252 325 238 330 225 328" stroke="#52c41a" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.3"/>
+</svg>
